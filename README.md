@@ -1,6 +1,5 @@
 # Animal-Sound
-
-##### A TCP Client-Server application using Socket Programming to implement a service that maintains a Register-Login module, an Animal-Sound database and provides insert and query operations having concurrent client support.
+A TCP Client-Server application using Socket Programming to implement a service that maintains a Register-Login module, an Animal-Sound database and provides insert and query operations having concurrent client support.
 
 ## The server, which will be called SoundServer, will operate as follows:
   Return the sound made by animals named by a client after the client connects to the server using the SOUND instruction,
